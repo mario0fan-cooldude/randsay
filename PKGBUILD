@@ -1,3 +1,4 @@
+#Maintainer: mario0fan (przemyslawlasek98@gmail.com)
 pkgname=randsay
 pkgver=1.0
 pkgrel=1
