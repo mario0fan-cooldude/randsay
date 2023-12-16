@@ -9,7 +9,7 @@ depends=('cowsay' 'fortune-mod')
 
 source=("randsay.py::https://raw.githubusercontent.com/mario0fan-cooldude/randsay/main/randsay.py")
 
-sha256sums=('put_the_calculated_checksum_here')
+sha256sums=('295ca489c0e8fbfb35f3fe34372509ec7b43e32da1aafebb6f32fc93ed0d702b')
 
 noextract=("$pkgname-$pkgver")
 
