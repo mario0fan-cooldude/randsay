@@ -15,5 +15,5 @@ sha256sums=('295ca489c0e8fbfb35f3fe34372509ec7b43e32da1aafebb6f32fc93ed0d702b')
 noextract=("$pkgname-$pkgver")
 
 package() {
-  install -Dm755 "$srcdir/randsay" "$pkgdir/usr/bin/randsay"
+  install -Dm755 "$srcdir/randsay.py" "$pkgdir/usr/bin/randsay"
 }
